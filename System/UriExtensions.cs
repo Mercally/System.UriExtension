@@ -4,7 +4,7 @@ using System.Collections.Specialized;
 using System.Reflection;
 using System.Web;
 
-namespace System
+namespace System.Extensions
 {
     public static class UriExtensions
     {
